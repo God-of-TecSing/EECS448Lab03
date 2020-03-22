@@ -1,0 +1,15 @@
+p.first{
+  color: orange;
+  background-color: black;
+  font-size: 40px;
+  text-align:center;
+  font-family: monospace;
+}
+
+#dummyText{
+  text-indent: 20px;
+  padding: 50px;
+  font-size: 15px;
+  width: 300px;
+  border:15px solid black;
+}
